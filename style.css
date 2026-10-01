@@ -32,6 +32,7 @@ button2 {
 	padding-right: 20px;
 	padding-left: 20px;
 	padding-top: 10px
+	
 }
 
 .navdiv{
@@ -80,6 +81,32 @@ button2 {
 #welcome-message {
 	padding-top: 20px;
 	color: white;
-	font-size: 30px;
+	font-size: 28px;
 }
+
+#about {
+	color:white;
+	padding-top: 20px;
+	font-size:22px;
+}
+
+#menu {
+	padding-top: 10px; 
+	display: flex; 
+	flex-direction: row; 
+	justify-content: center; 
+	align-items: center
+}
+#menu #javascript-juice {
+	border: 10px solid white;
+}
+
+#menu #HTML-hojicha {
+	border: 10px solid white;
+}
+
+#menu #CSS-chai {
+	border: 10px solid white;
+}
+
 
